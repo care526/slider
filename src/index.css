@@ -1,0 +1,7 @@
+* {
+  user-select: none;
+}
+.van-dialog {
+  transform: rotateZ(90deg);
+  transform-origin: top center;
+}
