@@ -8,7 +8,7 @@
         @click="start"
         >开始</van-button
       >
-      {{ boom }}
+      <!-- {{ boom }} -->
       <van-button class="transform" plain type="primary" @click="reset"
         >重置</van-button
       >
